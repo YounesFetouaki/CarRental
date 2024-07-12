@@ -15,7 +15,9 @@ Welcome to the Laravel Car Rental Platform, a web application designed to facili
 
 Check out our demo video to see the Laravel Car Rental Platform in action:
 
-[![Demo Video](https://res.cloudinary.com/dec4mifcv/image/upload/v1720796140/PORTFOLIO%20PROJECT%20IMAGES/f4ezjqlmdbm441tuyqj8.png)]([https://res.cloudinary.com/your_cloud_name/video/upload/v123456789/demo_video.mp4](https://res.cloudinary.com/dec4mifcv/video/upload/v1720798609/car_rental_-_Made_with_Clipchamp_q8s3ll.mp4))
+[Uploading car rental - Made with Clipchamp.mp4…](https://github.com/user-attachments/assets/477650cc-d1b0-43d8-aa00-9aaee5476d91)
+
+
 
 ## Features
 
