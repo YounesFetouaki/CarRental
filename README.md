@@ -53,8 +53,8 @@ Check out our demo video to see the Laravel Car Rental Platform in action:
 
 1. **Clone the repository**:
    ```
-   git clone https://github.com/yourusername/car-rental-laravel.git
-   cd car-rental-laravel
+   git clone https://github.com/YounesFetouaki/CarRental.git
+   cd CarRental
     ```
 2. **Install dependencies**:
 ```
